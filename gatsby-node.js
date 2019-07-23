@@ -138,7 +138,7 @@ exports.sourceNodes = ({ actions, createNodeId }, { languages, url }) => {
               arr.concat(
                 data.value.map(
                   /**
-                   * add getsby node properties.
+                   * add gatsby node properties.
                    * @function
                    * @param {object} obj
                    * @returns {object}
